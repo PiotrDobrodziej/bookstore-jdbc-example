@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d167a681-3ab5-4979-9890-d3e38a2cf5f5" name="Default Changelist" comment="" />
+    <list default="true" id="d167a681-3ab5-4979-9890-d3e38a2cf5f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/sda/BookstoreTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/sda/BookStoreManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="104">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,6 +60,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -76,11 +81,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1364" />
+    <option name="y" value="2" />
+    <option name="width" value="1360" />
     <option name="height" value="726" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -135,7 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550312189016" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550327794247" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
   </component>
   <component name="RecentsManager">
@@ -191,12 +196,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BookstoreTest - 2019.02.16 at 10h 32m 08s.xml">
-      <configuration name="BookstoreTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookstoreTest - 2019.02.16 at 10h 32m 51s.xml">
-      <configuration name="BookstoreTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BookstoreTest - 2019.02.16 at 10h 36m 47s.xml">
       <configuration name="BookstoreTest" configurationId="JUnit" />
     </history-entry>
@@ -221,20 +220,26 @@
     <history-entry file="BookstoreTest - 2019.02.16 at 11h 12m 09s.xml">
       <configuration name="BookstoreTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BookstoreTest - 2019.02.16 at 11h 16m 13s.xml">
+      <configuration name="BookstoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookstoreTest - 2019.02.16 at 11h 16m 31s.xml">
+      <configuration name="BookstoreTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <frame x="0" y="2" width="1360" height="726" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.04601227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19923078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="0" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.5673401" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.26094276" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -252,7 +257,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.422546" />
+      <window_info anchor="right" id="Run" order="8" weight="0.422546" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -287,7 +292,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/sda/BookstoreTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -296,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sda/BookStoreManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="104">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
